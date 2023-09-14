@@ -10,4 +10,8 @@
 
 ### [-Questão 5:](https://github.com/ErikTakeuti/ExerciciosLogica2/blob/main/Exerc%C3%ADcios%20de%20l%C3%B3gica%202/Q5.por)Faça um programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno. Dicas: Três lados formam um triangulo quando a soma de quaisquer dos dois lados é maior que o terceiro / Triângulo Equilátero: três lados iguais / Triângulo Isósceles: quaisquer dois lados iguais / Triângulo Escaleno: três lados diferentes;
 
-### [-Questão 6:](https://github.com/ErikTakeuti/ExerciciosLogica2/blob/main/Exerc%C3%ADcios%20de%20l%C3%B3gica%202/Q6.por) Para doar sangue é necessário ter entre 18 e 67 anos. Faça um aplicativo que pergunte a idade de uma pessoa e diga se ela pode doar sangue ou não.Use alguns dos operadores lógicos OU (||) e E (&&).
+### [-Questão 6:](https://github.com/ErikTakeuti/ExerciciosLogica2/blob/main/Exerc%C3%ADcios%20de%20l%C3%B3gica%202/Q6.por) Para doar sangue é necessário ter entre 18 e 67 anos. Faça um aplicativo que pergunte a idade de uma pessoa e diga se ela pode doar sangue ou não.Use alguns dos operadores lógicos OU (||) e E (&&);
+
+### [-Questão 7:](https://github.com/ErikTakeuti/ExerciciosLogica2/blob/main/Exerc%C3%ADcios%20de%20l%C3%B3gica%202/Q7.por) faça um algoritmo que receba dois números e ao final mostre a soma, subtração, multiplicação e a divisão dos números lidos;
+
+### [-Questão 8:](https://github.com/ErikTakeuti/ExerciciosLogica2/blob/main/Exerc%C3%ADcios%20de%20l%C3%B3gica%202/Q8.por)Escrever um algoritmo que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas,informar o seu nome, o salário fixo e salário no final do mês.
