@@ -29,3 +29,5 @@
 ### [-Questão 14:](https://github.com/ErikTakeuti/ExerciciosLogica2/blob/main/Exerc%C3%ADcios%20de%20l%C3%B3gica%202/Q14.por)Um comerciante comprou um produto e quer vendê-lo com um lucro de 50% se o valor da compra for menor que R$ 200, caso contrário o lucro será de 30%. Crie um algoritmo que leia o valor da compra e exiba o valor da venda.
 
 ### [-Questão 15:](https://github.com/ErikTakeuti/ExerciciosLogica2/blob/main/Exerc%C3%ADcios%20de%20l%C3%B3gica%202/Q15.por)Escrever um algoritmo para determinar o consumo médio de um automóvel sendo fornecida a distância total percorrida pelo automóvel e o total de combustível gasto. 
+
+### [-Questão 16:](https://github.com/ErikTakeuti/ExerciciosLogica2/blob/main/Exerc%C3%ADcios%20de%20l%C3%B3gica%202/Q16.por)Uma loja está oferecendo um grande desconto: para as clientes que levarem 3 produtos, será dado um desconto de 20% no valor tota da compra. Crie um programa que leia o preço dos três produtos e calcule e imprima no console: o valor do total da compra sem desconto, quanto foi o desconto e quanto deverá ser pago.
