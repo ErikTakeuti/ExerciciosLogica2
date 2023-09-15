@@ -27,3 +27,5 @@
 ### [-Questão 13:](https://github.com/ErikTakeuti/ExerciciosLogica2/blob/main/Exerc%C3%ADcios%20de%20l%C3%B3gica%202/Q13.por) Crie um algoritmo que após receber o Salário Bruto, calcule o salário líquido descontando 10% quando o salário bruto for menor que R$ 2000, caso contrário descontar 20%. No final, exiba o salário líquido;
 
 ### [-Questão 14:](https://github.com/ErikTakeuti/ExerciciosLogica2/blob/main/Exerc%C3%ADcios%20de%20l%C3%B3gica%202/Q14.por)Um comerciante comprou um produto e quer vendê-lo com um lucro de 50% se o valor da compra for menor que R$ 200, caso contrário o lucro será de 30%. Crie um algoritmo que leia o valor da compra e exiba o valor da venda.
+
+### [-Questão 15:](https://github.com/ErikTakeuti/ExerciciosLogica2/blob/main/Exerc%C3%ADcios%20de%20l%C3%B3gica%202/Q15.por)Escrever um algoritmo para determinar o consumo médio de um automóvel sendo fornecida a distância total percorrida pelo automóvel e o total de combustível gasto. 
