@@ -2,18 +2,18 @@ programa {
   funcao inicio() {
     
     /*
-     Uma loja est· oferecendo um grande desconto: para as clientes que levarem 3 produtos, ser· dado um desconto de 20% no valor total 
-     da compra. Crie um programa que leia o preÁo dos trÍs produtos e calcule e imprima no console: o valor do total da compra sem desconto,
-     quanto foi o desconto e quanto dever· ser pago.
-
+     Uma loja est√° oferecendo um grande desconto: para as clientes que levarem 3 produtos, ser√° dado um desconto de 20% no valor total 
+     da compra. Crie um programa que leia o pre√ßo dos tr√™s produtos e calcule e imprima no console: o valor do total da compra sem 
+     desconto, quanto foi o desconto e quanto dever√° ser pago.
     */
+
     real pr1 , pr2 , pr3 , vt , por , vf
 
-    escreva("Digite o preÁo do item 1: ")
+    escreva("Digite o pre√ßo do item 1: ")
     leia(pr1)
-    escreva("Digite o preÁo do item 2: ")
+    escreva("Digite o pre√ßo do item 2: ")
     leia(pr2)
-    escreva("Digite o preÁo do item 3: ")
+    escreva("Digite o pre√ßo do item 3: ")
     leia(pr3)
 
     vt = pr1 + pr2  + pr3
