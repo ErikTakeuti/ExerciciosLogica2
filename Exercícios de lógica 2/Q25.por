@@ -1,15 +1,15 @@
 programa {
   funcao inicio() {
     
-  //Dados três valores A, B e C, construa um algoritmo em PORTUGOL, que imprima os valores de forma descendente (do maior para o menor).
+  //Dados trÃªs valores A, B e C, construa um algoritmo em PORTUGOL, que imprima os valores de forma decrescente (do maior para o menor).
 
   real numA , numB , numC , x
 
-  escreva("Digite o número A: ")
+  escreva("Digite o nÃºmero A: ")
   leia(numA)
-  escreva("Digite o número B: ")
+  escreva("Digite o nÃºmero B: ")
   leia(numB)
-  escreva("Digite o número C: ")
+  escreva("Digite o nÃºmero C: ")
   leia(numC)
 
   se(numA < numB){
@@ -28,6 +28,6 @@ programa {
     numC = x
   }
 
-  escreva("Os números na ordem desscrescente é: \n", numA , "\n" , numB , "\n" , numC)
+  escreva("Os nÃºmeros na ordem decrescente Ã©: \n", numA , "\n" , numB , "\n" , numC)
   }
 }
