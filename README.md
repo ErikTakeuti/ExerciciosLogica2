@@ -46,3 +46,9 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### [-Questão 23:](https://github.com/ErikTakeuti/ExerciciosLogica2/blob/main/Exerc%C3%ADcios%20de%20l%C3%B3gica%202/Q23.por)Crie um programa que receberá um número do usuário e, em seguida, deverá imprimir no console todos os números ímpares de um até esse número.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### [-Questão 24:](https://github.com/ErikTakeuti/ExerciciosLogica2/blob/main/Exerc%C3%ADcios%20de%20l%C3%B3gica%202/Q24.por)Construa um algoritmo em PORTUGOL que determine (imprima) se um dado número N inteiro (recebido através do teclado) é PAR ou ÍMPAR.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### [-Questão 25:](https://github.com/ErikTakeuti/ExerciciosLogica2/blob/main/Exerc%C3%ADcios%20de%20l%C3%B3gica%202/Q25.por)Dados três valores A, B e C, construa um algoritmo em PORTUGOL, que imprima os valores de forma decrescente (do maior para o menor).
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### [-Questão 26:](https://github.com/ErikTakeuti/ExerciciosLogica2/blob/main/Exerc%C3%ADcios%20de%20l%C3%B3gica%202/Q26.por)Dados três valores A, B e C, construa um algoritmo em PORTUGOL, que imprima os valores de forma crescente (do menor para o maior).
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
